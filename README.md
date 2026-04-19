@@ -16,9 +16,9 @@
 <details>
 <summary><b>📸 Önizleme/Preview</b></summary>
   
-![sample](https://github.com/abdullah-erturk/Windows-Backup-Restore-Tool/blob/main/1.jpg)
-![sample](https://github.com/abdullah-erturk/Windows-Backup-Restore-Tool/blob/main/2.jpg)
-![sample](https://github.com/abdullah-erturk/Windows-Backup-Restore-Tool/blob/main/3.jpg)
+![sample](https://github.com/abdullah-erturk/Windows-Backup-Restore-Tool/blob/main/1.jpeg)
+![sample](https://github.com/abdullah-erturk/Windows-Backup-Restore-Tool/blob/main/2.jpeg)
+![sample](https://github.com/abdullah-erturk/Windows-Backup-Restore-Tool/blob/main/3.jpeg)
 
 </details>
 
